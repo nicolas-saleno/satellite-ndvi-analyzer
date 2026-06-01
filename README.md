@@ -104,3 +104,7 @@ satellite-ndvi-analyzer/
 ---
 
 *Proyecto de portfolio — parte de mi formación en Data Science y Machine Learning.*
+HEAD
+=======
+
+6fe3283bcd08fcc36c3551ef0550ac214972a863
